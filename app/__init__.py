@@ -1,0 +1,1 @@
+"""Aplicación JobFit API."""
